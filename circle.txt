@@ -1,5 +1,5 @@
 This file is for circle
-adding orange color
+adding orange colour
 added outline 
 
-perimeter
+perimeter + Random feature
