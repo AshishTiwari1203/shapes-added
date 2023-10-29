@@ -2,4 +2,4 @@ This file is for circle
 adding orange color
 added outline 
 
-perimeter
+perimeter + area
